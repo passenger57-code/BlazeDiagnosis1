@@ -1,0 +1,3 @@
+{
+  "/api/customer/job-cards/[id]/status-events/route": "app/api/customer/job-cards/[id]/status-events/route.js"
+}
